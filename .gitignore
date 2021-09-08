@@ -20,6 +20,7 @@ target/
 *.ipr
 out/
 target
+src/main/java/inventorydetails
 
 ### NetBeans ###
 /nbproject/private/
